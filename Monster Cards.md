@@ -24,8 +24,8 @@ HP: 15, LVL: 3, Speed: 1
 Loot: 50 GP
 ## Fat Bat
 HP: 20, LVL: 4, Speed: 1
-- Bite | Deal 5 Piercing.
-- Yummy | Heal 5 HP.
+- Bite (x2) | Deal 5 Piercing.
+- Yummy (x2) | Heal 5 HP.
 - Burp | Do nothing.
 
 Loot: 80 GP
