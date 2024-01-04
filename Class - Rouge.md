@@ -5,3 +5,4 @@
 | 1 | Skill | Rouge | Go Behind | Trap: when you attack, the attack deals 1d8 extra damage. |
 | 1 | Skill | Rouge | Assasinate | (1) Trap: when you attack, Double the attack damage. |
 | 1 | Attack | Rouge | Sneaky Shot | Deal 1d4 Piercing. +1 damage for each trap card activated this turn. |
+| 1 | Skill | Rouge | Set Up | Draw 2 cards. Play one and discard the other. |
