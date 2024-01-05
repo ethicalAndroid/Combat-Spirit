@@ -1,6 +1,7 @@
-Monsters only play the top cards of their deck.
 Monsters have HP, LVL, and SPEED.
-A monster only plays cards equal to their SPEED each turn.
+Monsters draw their hand at the start of combat and draw their hand at the end of their turn like normal characters.
+A monster has a hand size equal to their SPEED.
+A monster can play cards equal to their SPEED each turn.
 Monsters have infinite RESOURCE.
 ## Coal Knight
 HP: 5, LVL: 1, Speed: 1
