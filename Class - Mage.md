@@ -7,7 +7,7 @@ Their Resource is Scrolls.
 | ---- | ---- | ---- | ---- |
 | 1 | Attack | Scroll of Fireball | (1) Quest: Play 1 Fire card, Play 1 Critter card -> Deal 3d6 Fire. |
 | 1 | Skill | Scroll of Frost | (1) Quest: Play 1 Ice card, Play 1 Wind card -> Discard 3 Cards from the target. |
-| 1 | Attack | Spark | Deal 2 Fire. |
+| 1 | Attack | Spark | Fire, Deal 2 Fire. |
 | 1 | Skill | Messenger Bat | Critter, Draw 2 Cards. |
 | 1 | Skill | Breeze | Wind, Play 1 Card. |
 | 1 | Skill | Snowflake | Ice, Trap: Block 2 damage. |
