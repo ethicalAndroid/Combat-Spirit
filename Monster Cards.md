@@ -20,7 +20,7 @@ Loot: 30 GP
 HP: 15, LVL: 3, Speed: 1
 - Slash | Deal 2d4 Slashing.
 - Rock Toss | Deal 1d10 Bludgeoning.
-- Grab | Reroll all dice rolled against the target if they are below average.
+- Grab | P: Target an opponent, reroll all dice rolled against the target if they are below average.
 
 Loot: 50 GP
 ## Fat Bat
