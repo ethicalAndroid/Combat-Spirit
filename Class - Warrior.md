@@ -1,7 +1,7 @@
 Warriors hack and slash with raw strength.
 They block with shields to reduce incoming damage.
 They use momentum to power up their attacks over time.
-Their focus is Energy.
+Their Resource is Energy.
 
 | Rank | Type | Name | Description |
 | ---- | ---- | ---- | ---- |
